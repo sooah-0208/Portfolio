@@ -10,7 +10,7 @@
 
 ---
 
-### ✈️ [Flight Data ETL](링크)
+### ✈️ [Flight Data ETL](https://github.com/sooah-0208/Portfolio/blob/main/project/Flight.md)
 > **항공 운항 데이터 정규화 및 통계 분석 파이프라인**
 * **핵심 기능:** 항공사/기종/운항 기록 데이터 ETL, DB 정규화(1~3NF), 통계 쿼리 추출
 * **Tech:** `Python`, `Pandas`, `MySQL`, `SQLAlchemy`
