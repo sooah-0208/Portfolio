@@ -12,8 +12,12 @@
 * **공간 정보 시각화:** Pydeck을 활용하여 노선별 운항 경로 및 밀집도 시각화
 
 ---
+## 2. 기능정의서
 
-## 🛠️ 2. Tech Stack (기술 스택)
+![기능정의서](../public/image.png)
+---
+
+## 🛠️ 3. Tech Stack (기술 스택)
 * **Language:** Python
 * **Dashboard:** Streamlit (웹 프레임워크), Pydeck (공간 정보 시각화), Altair (통계 차트)
 * **Data Processing:** Pandas (Data Cleaning), SQLAlchemy (DB Connection)
@@ -21,7 +25,7 @@
 
 ---
 
-## 🏗️ 3. Database Schema (데이터 구조)
+## 🏗️ 4. Database Schema (데이터 구조)
 데이터 무결성과 쿼리 효율성을 위해 3개의 주요 테이블로 정규화하였습니다.
 * **항공사(Airline):** 항공사 IATA/ICAO 코드 및 정식 명칭 관리
 * **운반대(Carrier):** 비행기 기종별 수송 능력 및 제원 데이터
@@ -38,10 +42,14 @@
 | **데이터 분석 차트** | Altair를 활용한 항공사별 운항 효율성 및 리스크 분석 그래프 제공 |
 
 ---
-[설명](map.png)
+![지도](../public/map.png)
+![지도](../public/risk_kpi.png)
+![지도](../public/risk_chart.png)
+![지도](../public/cancel.png)
+![지도](../public/det.png)
 ---
 
-## ⚠️ 5. Troubleshooting & Lessons Learned (시행착오 및 회고)
+## ⚠️ 6. Troubleshooting & Lessons Learned (시행착오 및 회고)
 
 ### 🔗 기술적 해결: 데이터 관계 설정 및 정규화
 * **Issue:** 초기 단일 테이블 구조에서 데이터 중복과 속도 저하 발생.
