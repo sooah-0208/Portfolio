@@ -38,6 +38,8 @@
 | **데이터 분석 차트** | Altair를 활용한 항공사별 운항 효율성 및 리스크 분석 그래프 제공 |
 
 ---
+[설명](map.png)
+---
 
 ## ⚠️ 5. Troubleshooting & Lessons Learned (시행착오 및 회고)
 
