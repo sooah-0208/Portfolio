@@ -2,7 +2,7 @@
 ---
 ## 🚀 Projects
 ---
-### 🚇 [Seoul Metro Map](링크)
+### 🚇 [Seoul Metro Map](https://github.com/sooah-0208/Portfolio/blob/main/project/Seoul%20Metro.md)
 > **React & Kakao Map API를 활용한 지하철 역세권 시각화**
 * **핵심 기능:** 실시간 역 위치 표시, 카테고리별 장소 검색, 용도지역 데이터 연동
 * **Tech:** `React`, `MySQL`, `Spark`, `Kakao Map API`
