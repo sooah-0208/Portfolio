@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## 🚀 Projects
+## 🏆 Projects 1
 ---
 ### 🚇 [Seoul Metro Map](https://github.com/sooah-0208/Portfolio/blob/main/project/Seoul%20Metro.md)
 > **React & Kakao Map API를 활용한 지하철 역세권 시각화**
@@ -15,3 +15,14 @@
 * **핵심 기능:** 항공사/기종/운항 기록 데이터 ETL, DB 정규화(1~3NF), 통계 쿼리 추출
 * **Tech:** `Python`, `Pandas`, `MySQL`, `SQLAlchemy`
 * **Key Point:** 복잡한 관계형 데이터베이스 설계 및 데이터 무결성 확보 능력을 증명
+
+
+[code](https://github.com/sooah-0208/AIR-SUBWAY)
+
+---
+
+## 🏆 Projects 2
+
+### 🌱[ESG platform]()
+> **ESG 지속가능경영보고서 자동화 시스템**
+* **핵심 기능**: 
